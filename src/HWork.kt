@@ -21,33 +21,3 @@ fun main() {
 
     println(d1.equals(d2))
 }
-
-
-
-//fun main(){
-//
-//    var f1 = fraction()
-//    f1.numerator = 3.0
-//    f1.denominator = 4.0
-//
-//    var f2 = fraction()
-//    f2.numerator = 3.0
-//    f2.denominator = 4.0
-//
-//    println(f1)
-//    println(f2)
-//
-//    println(f1 == f2)
-//    println(f1.equals(f2))
-//}
-//
-//
-//class fraction(var numerator: Double = 0.0, var denominator: Double = 0.0){
-//
-//}
-
-
-
-
-
-
